@@ -7,3 +7,5 @@ Directly inputting a video that stores a long behavior process into the recognit
 ```
 python main_multipart_ntu.py --config config/nturgbd-cross-subject/lst_joint.yaml
 ```
+
+## Dataset https://rose1.ntu.edu.sg/dataset/actionRecognition
